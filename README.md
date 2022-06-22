@@ -38,4 +38,4 @@ icon 참고: https://simpleicons.org/?q=go
 
 #### 오픈소스 툴
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/>  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>  <img src="https://img.shields.io/badge/ArgoCD-F68315?style=flat"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/>  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>  <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=Argo&logoColor=white"/> <img src="https://img.shields.io/badge/Traefik-9D0FB0?style=flat&logo=Traefik&logoColor=white"/>
