@@ -31,14 +31,21 @@ icon 참고: https://simpleicons.org/?q=go
 
 😄 kubernetes (with CKA)
 
-### 좋아하는 기술
+<h3 align="center">🛠 Languages and Tools 🛠</h3>
+<p align="center">
+  <img alt="Go" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/>
+  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+  <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white"/>
+  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img alt="traefik" src="https://img.shields.io/badge/Traefik-9D0FB0?style=for-the-badge&logo=Traefik&logoColor=white"/>
+  <img alt="argoCD" src="https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=Argo&logoColor=white"/> 
+  <img alt="Ansible" src ="https://img.shields.io/badge/Ansible-EE0000.svg?&style=for-the-badge&logo=Ansible&logoColor=white"/>
+  <img alt="Jenkins" src ="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
+  <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
+  <img alt="Aws" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+ </p>
 
-#### 언어
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>  
 
-#### 오픈소스 툴
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/>  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>  <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=Argo&logoColor=white"/> <img src="https://img.shields.io/badge/Traefik-9D0FB0?style=flat&logo=Traefik&logoColor=white"/>
 
 <h3 align="center">:1st_place_medal: Certificate :1st_place_medal:</h3>
 <p align="center">
