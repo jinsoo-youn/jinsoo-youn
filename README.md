@@ -49,6 +49,11 @@ icon 참고: https://simpleicons.org/?q=go
 
 <h3 align="center">:1st_place_medal: Certificate :1st_place_medal:</h3>
 <p align="center">
+<a href="https://www.credly.com/badges/4603ebfe-10e7-4132-b8e8-016b66691dc9/public_url">
+<img
+src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png"
+style="height : 100px; margin-left : 10px; margin-right : 10px;"/>
+</a>
 <a href="https://www.credly.com/badges/ac04576b-1132-47ad-bfd1-edf72c3ee0d2/public_url">
 <img
 src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
