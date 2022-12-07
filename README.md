@@ -29,7 +29,7 @@ icon 참고: https://simpleicons.org/?q=go
 
 😄 CI/CD (Jenkins, ArgoCD)
 
-😄 kubernetes (with CKA, CKS)
+😄 kubernetes (with CKAD, CKA, CKS)
 
 <h3 align="center">🛠 Languages and Tools 🛠</h3>
 <p align="center">
